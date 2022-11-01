@@ -5,4 +5,5 @@ rencana magang
 4. Belajar ui
 5. Belajar ux
 6. Belajar figma 
-belajar bootsrap
+7. Belajar animasi menggunakan css
+8 belajar css ssampai mahir
