@@ -4,3 +4,4 @@ rencana magang
 3. belajar laravel
 4. Belajar ui
 5. Belajar ux
+6. Belajar figma 
