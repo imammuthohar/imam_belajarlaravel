@@ -1,0 +1,75 @@
+Catatan magang
+Catatan Magang Hari 1 Selasa, 1 Oktober 2022
+Sesi 1 Master Mind bersama mas Akbar
+Materi Git
+Beda2 per individu.
+fusion control
+List Akun Trello : 
+
+
+Nonton video kemudian review.
+Git
+Hithub
+
+Git
+Version Contron System : VCS : , sistem yang mengelola perubahan dokumen.
+Kenapa menggunakan VCS. 
+- kesulitan membuat versi untuk perubahan.
+- Proses kolaborasi untuk menggabungkan bagian-bagian pekerjaan
+- Sharing untuk membagikan ke orang lain.
+PErbdaan dengan dropbox dangan google drive untuk mengelola source code dropbox dan google drive tidak bisa.
+
+Devinisi Versionn control system:
+Sebuah sistem yang menyimpan  rekaman / spanshot perubaha pada source code
+memungkinkan bekerja berkolaborasi dengan lebih baik
+mengetahui siapa yang melakukan dan kapan sebuah perubahan pada source code
+ memungkinkan bekerja berkolaborasi dengan lebih baik.
+mengetahui siapa saja yang melakukan dan kapan sebuah perubahan terjadi
+Memungkinkan kita untuk kembali ke keadaan sebelum perubahan (checkout)
+
+Git :
+sebuah cvs terdistribusi untuk mengelola perubahan file di dalam folder.
+(repository/repo)
+
+riwayat perubahan file disimpan menggunakan serangkaian commit.
+
+1 commit akan di rekam 1 snapshot
+
+jika melakukan perubahan tanpa git.akan mengakibatkan nambah file
+jika dengan git file hanya 1, history perubahan disebut dengan commit.
+
+Contoh :
+yang direkam oleh git adalah histori perubahan yang dilakukan oleh commit.
+Yang dilakukan oleh git adalah menganalisis sebuah folder sebagai repository. jika itu sebuah repo maka akan dis simpan perubaahan olah commit
+
+hash : penanda untuk setiap commit 
+author: siapa yang mengerjakan
+date: kapan commit
+Apa yang dilakukan.
+
+Setelah ada 3 kommit jika kita tidak kan mengganggu commit 3
+bisa dibuat cabang/branch.
+proses penggabungan branch disebut merge.
+
+Github : website untuk upload file untuk dikelola sebagai version control
+. Layanan cloud untuk menyimpan program.
+Github juga bisa melakukan seperti git  
+perbedaannya git dilakukan di lokal, sedangkan github dilakukan secara global. 
+
+Dengan git di lokal github di cloud 
+
+printah git
+repo = folder project 
+commit = rekaman / snaphsot dari repo kita
+has = penanda unik pada sebuah commit
+checkout = berpindah ke sebuah commit
+branch = cabang bebas dari sebuah commit
+merge =  menggabungkan branch
+remote = sumber yang memoliki repo
+clone = mengambil repo dari remote
+push = mengirimkan commit ke repo
+pull = mengambil commit dari repo
+
+===================================
+
+Membuat akun Github
