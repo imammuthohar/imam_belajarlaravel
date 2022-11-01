@@ -1,0 +1,6 @@
+rencana magang 
+1 belajar git
+2. belajar github
+3. belajar laravel
+4. Belajar ui
+5. Belajar ux
