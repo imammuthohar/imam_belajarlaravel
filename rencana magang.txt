@@ -5,3 +5,4 @@ rencana magang
 4. Belajar ui
 5. Belajar ux
 6. Belajar figma 
+belajar bootsrap
